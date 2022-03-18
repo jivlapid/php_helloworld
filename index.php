@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Jivo</title>
+  <title>Cloudfinity</title>
  </head>
  <body>
  <?php echo '<p>Hello World!!!</p>'; ?> 
