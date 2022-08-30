@@ -3,6 +3,6 @@
   <title>Cloudfinity</title>
  </head>
  <body>
- <?php echo '<p>Hello everyone, have a nice day!</p>'; ?> 
+ <?php echo '<p>Hello everyone!</p>'; ?> 
  </body>
 </html>
