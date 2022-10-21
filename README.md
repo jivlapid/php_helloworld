@@ -1,2 +1,2 @@
 # php_helloworld
-simple hello world app
+simple hello for everyone to use
